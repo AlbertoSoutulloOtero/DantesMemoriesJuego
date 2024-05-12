@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\DantesMemories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\endcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|c:\\unityprojects\\dantesmemories\\assets\\scripts\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\playerhealtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\gameovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\moneycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moneycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\bossactivationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossactivationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\enemyhealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\bossscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\bossprojectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossprojectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\enemyprojectylecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyprojectylecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\effectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\heartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\enemymovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\playercamscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercamscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|C:\\UnityProjects\\DantesMemories\\assets\\scripts\\fondoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0936707-DC4E-24B9-12F8-8762C8F5A65D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fondoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EndController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EndController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:11:39.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameOverController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\GameOverController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\GameOverController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T01:11:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PauseController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\PauseController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\PauseController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwGcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:34:07.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HeartController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\HeartController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\HeartController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:41:51.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealtController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\PlayerHealtController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealtController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\PlayerHealtController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealtController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwFcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:02:41.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwE0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:33:53.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\BossController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:57:10.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:53:31.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:25:29.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyHealthController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EnemyHealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealthController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EnemyHealthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHealthController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:27:57.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BossProjectileController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\BossProjectileController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossProjectileController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\BossProjectileController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossProjectileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T10:17:49.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BossSceneController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\BossSceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossSceneController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\BossSceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossSceneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:35:06.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:12:02.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyProjectyleController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EnemyProjectyleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyProjectyleController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EnemyProjectyleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyProjectyleController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:08:18.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectileController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\ProjectileController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\ProjectileController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:52:42.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnemyMovementController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EnemyMovementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovementController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EnemyMovementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMovementController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:09:25.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BossActivationController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\BossActivationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossActivationController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\BossActivationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossActivationController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:48:31.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoneyController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\MoneyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoneyController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\MoneyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoneyController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:47:00.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EffectsController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EffectsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EffectsController.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\EffectsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EffectsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:57:52.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerCamScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\PlayerCamScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCamScript.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\PlayerCamScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCamScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:46:01.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FondoScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\FondoScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FondoScript.cs",
+              "ToolTip": "C:\\UnityProjects\\DantesMemories\\Assets\\Scripts\\FondoScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FondoScript.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:33:55.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+> [video de presentación del proyecto y mecánicas](https://youtu.be/rnULoiOFUjo)
