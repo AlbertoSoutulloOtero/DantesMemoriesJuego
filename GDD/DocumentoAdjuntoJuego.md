@@ -72,7 +72,7 @@
 >
 > ### Descripción General
 >
-> El juego sse basa en un mundo donde las maldiciones, así como los cuentos y criaturas de época son cosa de la orden del día.
+> El juego se basa en un mundo donde las maldiciones, así como los cuentos y criaturas de época son cosa de la orden del día.
 >
 > ### Personajes
 >
@@ -80,34 +80,34 @@
 >
 >   * Dante: Personaje principal, y el controlado por el jugador a lo largo del mapa
 >   
->       <img src="imagenes/prota.png"/>
+>       ![prota](../imagenes/prota.png)
 >
 > 
 > * Enemigos:
 >
 >   * Esqueletos: Enemigos sin alma controlados por el mago los cuales se encatgarán de hacernos daño tanto chocando contra nosotros como mediante proyectiles
 >   
->       <img src="imagenes/esqueleto.png"/>
+>       ![esqueleto](../imagenes/esqueleto.png)
 >
 > * Jefes:
 >
 >   * Mago del fuego azul: El creador de todo este cementerio de pura maldad que se tratará como mapa en esta entrega, pudiendo teletransportarse y lanzar llamas a La posición actual de dante
 >   
->       <img src="imagenes/boss.png"/>
+>       ![boss](../imagenes/boss.png)
 > 
 > ### Objetos
 >
 > * Corazón: Da vida al personaje.
 >
-> <img src="imagenes/corazon.png"/>
+> ![corazon](../imagenes/corazon.png)
 >
 > * Diamante: Da moneda al personaje.
 >
-> <img src="imagenes/diamante.png"/>
+> ![diamante](../imagenes/diamante.png)
 >
 > * Cofre: Lo mismo que el diamante pero en mayor cantidad.
 >
-> <img src="imagenes/cofre.png"/>
+> ![cofre](../imagenes/cofre.png)
 > 
 > ## INTERFAZ
 > 
@@ -115,31 +115,31 @@
 >
 > * Información: Suelta el título del videojuego mediante tipografía personalizada (como el resto de menus del juego) sobre pulsar cualquier tecla para comenzar.
 >
->  <img src="imagenes/intro.png"/>
+> ![inicio](../imagenes/intro.png)
 >
 > ### Pantalla Principal:
 >
 > * Información: Aquí comienza el gameplay, a lo largo de la escena nos encargaremos de los muertos vivientes controlados por el mago hasta llegar a su castillo, con el cual deberemos acabar para dar un poco más de paz al corroido mundo.
 >
->  <img src="imagenes/hud.png"/>
+> ![principal](../imagenes/hud.png)
 >
 > ### Pantalla de Pausa:
 >
 > * Información: Un menú simple el cual nos informa de nuestras opciones posibles en el propio texto indicado en pantalla.
 >
->  <img src="imagenes/pause.png"/>
+> ![pausa](../imagenes/pause.png)
 >
 > ### Pantalla Gameover:
 >
 > * Información: Pantalla que aparecerá cuándo nuestro personaje fallezca y que también compartirá información sobre sus opciones.
 >
->  <img src="imagenes/gameover.png"/>
+> ![gameover](../imagenes/gameover.png)
 >
 > ### Pantalla de Victoria:
 >
 > * Información: Pantalla que se mostrará segundo y medio después de acabar con el mago, dando tiempo a que su animación de muerte termine y proceda a indicar al jugador sus opciones después de pasar la pantalla.
 >
->  <img src="imagenes/endscreen.png"/>
+> ![victory](../imagenes/endscreen.png)
 >
 >  ### HUD
 >
@@ -155,7 +155,7 @@
 >
 >       * Barra de vida del jefe
 >
->  <img src="imagenes/hud.png"/> 
+> ![HUD](../imagenes/hud.png)
 > 
 > ### ARTE
 >
